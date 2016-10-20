@@ -1,6 +1,6 @@
 # Top-down shooter template
 
-[!screenshot](/images/shot01.jpg]
+[!screenshot](https://github.com/Superbelko/TopdownShooterTemplate/blob/master/images/shot01.jpg?raw=true)
 
 This is an Unreal Engine 4 game template, yay.
 
@@ -19,5 +19,5 @@ License
 MIT
 
 
-   [ue-forum]: <http://unrealengine.com>
+   [ue-forum]: <https://forums.unrealengine.com/showthread.php?126455-Topdown-Shooter-Template>
    
