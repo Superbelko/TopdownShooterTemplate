@@ -1,0 +1,12 @@
+/.vs
+/Intermediate
+/Binaries
+/Saved
+/*.sln
+/*.db
+/*.opendb
+/Content/StarterContent
+/Build
+/Content/SciFiProps
+/Plugins/TDHideableMesh/Binaries
+/Plugins/TDHideableMesh/Intermediate
